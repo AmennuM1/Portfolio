@@ -130,6 +130,22 @@ img.example-image {
     border:3px solid #d3ac2b;
 }
 
+.carousel-item h5{
+    color: white;
+}
+
+.carousel-item p{
+    color: white;
+}
+
+#pictext h5{
+    color: black;
+}
+
+#pictext p{
+    color: black;
+}
+
 /*==============CONTACT SECTION===========*/
 .footer .row{
     background-color: rgba(5,0, 0, .9);
@@ -137,7 +153,7 @@ img.example-image {
     color:white;
 }
 .footer img {
-    height: 3.5rem;
+    height: 5rem;
     margin: 1.5rem; 
     margin-left:0;
 }
